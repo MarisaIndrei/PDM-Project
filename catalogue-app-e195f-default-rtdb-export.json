@@ -1,0 +1,61 @@
+{
+  "User" : {
+  "01" : {
+      "Admin" : "true",
+	  "Elev" : "false",
+      "email" : "marisa.indrei@e-uvt.ro",
+      "Password" : "1234"
+    },
+    "02" : {
+	  "Admin" : "false",
+      "Elev" : "true",
+      "email" : "raluca.todoca97@e-uvt.ro",
+      "Password" : "12345"
+    },
+    "03" : {
+      "Admin" : "false",
+      "Elev" : "true",
+      "email" : "diana.pop99@e-uvt.ro",
+      "Password" : "123456"
+    },
+    "04" : {
+      "Admin" : "false",
+      "Elev" : "true",
+      "email" : "clara.popa@e-uvt.ro",
+      "password" : "1234567"
+    },
+    "05" : {
+      "Admin" : "true",
+	  "Elev" : "false",
+      "email" : "iulia.duse@e-uvt.ro",
+      "password" : "123456"
+    }
+},
+
+	"Grades": {
+	"02" : {
+		"Subject" : "Matematica",
+		"Grade1" : "9",
+		"Grade2" : "10",
+		"Average grades" : "10",
+		"Absences" : "2"
+	},
+	"03" : {
+		"Subject" : "Matematica",
+		"Grade1" : "9",
+		"Grade2" : "8",
+		"Average grades" : "9",
+		"Absences" : "0"
+	},
+	"04" : {
+		"Subject" : "Matematica",
+		"Grade1" : "6",
+		"Grade2" : "6",
+		"Average grades" : "6",
+		"Absences" : "10"
+	}
+}
+	
+
+	
+}
